@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokemon</title>
+    <link rel="stylesheet" href="pokemon pagina 3.css"
+</head>
+<body>
+   <img src="imagens/Mestre Pokemon.jpg" alt="cabeçalho" height="190px;" width: "20cm;"></img>
+       <link rel="stylesheet" href="cadastro.css">
+    
+<center>
+    <table class="tabela-simples" border= "2px" style="width:60%" border="1">
+       
+        <tr><td colspan="20" align="center">Escolha seu Pokemon</td></Tr><br></br>
+            <tr>
+            <td><img src="imagens/32cbcff5bf5eb302cf93dfb590bb8e62-removebg-preview.png" alt="Charmander" style="height: 150px;"></td>
+            <td><img src="imagens/Venonat-removebg-preview.png" alt="Venonat" style="height: 150px;"></td>
+            <td><img src="imagens/Arbok-removebg-preview.png" alt="Arbok" style="height: 150px;"></td>
+            <td><img src="imagens/Charizard-removebg-preview.png" alt="Charizard" style="height: 150px;"></td>
+            <td><img src="imagens/images-removebg-preview.png" alt="Bulbasar" style="height: 150px;"></td>
+            <td><img src="imagens/Kakuna-removebg-preview.png" alt="Kakuna" style="height: 150px;"></td>
+            <td><img src="imagens/Nidoran_Fêmea-removebg-preview.png" alt="Nidoran Fêmea" style="height: 150px;">></td>
+        </tr>
+
+
+        <td align="left"><b>Charmander</b><br> Massa: 8,5kg<br> Altura: 0,6 m<br>Espécie: Lagarto<br> Tipo: Fogo</td><br>
+        <td align="left"><b>Venonat</b><br>Massa: 30kg<br> Altura: 1 m<br>Espécie: Inseto<br> Tipo: Inseto/venenoso</td>
+        <td align="left"><b>Arbok</b><br>Massa: 65kg<br> Altura: 3,5 m<br>Espécie: Cobra<br> Tipo: Venenoso</td>
+        <td align="left"><b>Charizard</b><br>Massa: 90,5kg<br> Altura: 1,7 m<br>Espécie: Chama<br> Tipo: Fogo/Voador</td>
+        <td align="left"><b>Bulbasaur</b><br>Massa: 6,9kg<br> Altura: 0,7 m<br>Espécie: Semente<br> Tipo: Grama/Venenoso</td>
+        <td align="left"><b>Kakuna</b><br>Massa: 10kg<br> Altura: 0,6 m<br>Espécie: Casulo<br> Tipo: Inseto/Venenoso</td>
+        <td align="left"><b>Nidoran Fêmea</b><br>Massa: 7kg<br> Altura: 0,4 m<br>Espécie: Agulha venenosa<br> Tipo: Venenoso</td>
+             
+        
+        <tr>
+                    <left>
+                    <td><img src="imagens/Ninetales-removebg-preview.png" alt="Ninetales" style="height: 150px;"></td>
+                    <td><img src="imagens/Pikachu-removebg-preview.png" alt="Pikachu" style="height: 150px;"></td>
+                    <td><img src="imagens/Sandshrew-removebg-preview.png" alt="Sandshrew" style="height: 150px;"></td>
+                    <td><img src="imagens/Squirtle Pikachu.png" alt="Squirtle" style="height: 150px;"></td>
+                    <td><img src="imagens/Wartortle-removebg-preview.png"alt="Wartortle" style="height: 150px;"></td>
+                    <td><img src="imagens/Ekans-removebg-preview.png" alt="Ekans" style="height: 150px;"></td>
+                    <td><img src="imagens/Beedrill-removebg-preview.png" alt="Beedrill" style="height: 150px;"></td>
+                </left>
+                </tr>
+
+                <td align="left"><b>Ninetales</b><br> Massa: 19,9kg<br> Altura: 1,1 m<br>Espécie: Raposa<br> Tipo: Fogo</td>
+                <td align="left"><b>Pikachu</b><br>Massa: 6kg<br> Altura: 0,4 m<br>Espécie: Rato<br> Tipo: Elétrico</td>
+                <td align="left"><b>Sandshrew</b><br>Massa: 12kg<br> Altura: 0,6 m <br>Espécie: Cobra<br> Tipo: Venenoso</td>
+                <td align="left"><b>Squirtle</b><br>Massa: 9kg<br> Altura: 0,5m <br>Espécie: Tartaruga<br> Tipo: Água</td>
+                <td align="left"><b>Wartortle</b><br>Massa: 22kg<br> Altura: 1m <br>Espécie: Tartaruga<br> Tipo: Água</td>
+                <td align="left"><b>Ekans</b><br>Massa: 6,9kg<br> Altura: 2m <br>Espécie: Cobra<br> Tipo: Venenoso</td>
+                <td align="left"><b>Beedrill</b><br>Massa: 29,5kg<br> Altura: 1m <br>Espécie: Abelha<br> Tipo: Inseto/Venenoso</td>
+            </table>
+        </center>
+</body>
+</html>
