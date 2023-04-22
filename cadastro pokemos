@@ -27,7 +27,7 @@
 
             <label for="data">
                 <span>Data da captura</span>
-                <input type="text" id="name" name="name">
+                 <input type="date" id="date" name="date">
             </label>
 
             <label for="pokebolas">
