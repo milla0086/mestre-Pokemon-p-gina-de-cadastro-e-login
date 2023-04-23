@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>TOP 5 Filmes </title>
+<meta charset="utf-8">
+<style>
+body{
+    background-color: hsl(53, 74%, 77%);
+    background: url(imagens/fundo-site.jpg);   
+}
+</style>
+</head>
+
+<body>
+    <center><h1></h1><img src="imagens/top 5.png" alt="cabeçalho" height="100px" width: "500px"></h1></center>    
+<center>
+<table>
+<tr>
+<td><li> <A href="#Valente">Valente</A> </li></td><br>
+    <td><li> <A href="#Constantine">Constantine</A> </li></td><br>
+        <td><li> <A href="#Superação">Superação</A> </li></td><br>
+            <td><li> <A href="#Vingadores Ultimato">Vingadores Ultimato</A> </li></td><br>
+                <td><li> <A href="#Invocação do mal">Invocação do mal</A> </li></td><br>
+</tr>
+</table>
+</center>
+
+<center>  
+<table class="tabela-simples" border= "0px" style="width:60%" border="0">
+<tr>
+    
+<td><h1 id="Valente" font="center">Valente</h1></td>
+<td><h2 id="Constantine">Constantine</h2></td>
+<td><h3 id="Superação">Superação</h3></td>
+</center>
+</tr><br></br>
+
+<tr>
+    <center>
+    <td><img src="imagens/valente.jpg" alt="Valente" style="height:400px"></td>
+    <td><Img src="imagens/constantine.jpg" alt="Constantine" style="height:400px"></td>
+    <td><Img src="imagens/superação.jpg" alt="Superação" style="height:400px"></td>
+    </center>
+</tr>
+
+<tr>
+    <td><p><b>A princesa Merida deve seguir os costumes do seu reino e tomar-se rainha ao lado do cavalheiro 
+    que conseguir a sua mão durante um torneio de arco e flecha. Porém, a jovem está determinada a trilhar 
+    seu próprio caminho e desafia a tradição ancestral.<b></b></p></td>
+    <td><p><b>Contos sobrenaturais baseados nas histórias em quadrinhos "Hellblazer". O solitário Constantine 
+    tenta garantir seu lugar no paraíso enviando demônios de volta ao inferno, mas seu destino está 
+    ligado ao de Angela, uma policial que investiga o suposto suicídio de sua irmã gêmea.</b></p></td>
+    <td><p><b>Durante um passeio com a família em uma manhã de inverno no Lago St Louis, no Missouri, o menino John Smith, 
+    de apenas 14 anos, sofre uma queda e se afoga por mais de 15 minutos. Chegando ao hospital, John é considerado 
+    morto por mais de uma hora até que sua mãe, Joyce Smith, ao lado do pai e de um pastor, junta todas as suas forças e 
+    pede a Deus para que seu filho sobreviva. Sua prece poderosa é responsável por um milagre inédito.</b></p></td>
+</tr>
+
+<tr>
+    <td><p style= "font-size: small;"><b>Clique para assistir o trailer</b></p>
+        <a href="https://www.youtube.com/watch?v=4a8Ut-mVRLc">
+            <img src="imagens/youtube.png" alt="youtube" style="height: 30px;"></a>
+    </td>
+
+    <td><p style= "font-size: small;"><b>Clique para assistir o trailer</b></p>
+        <a href="https://www.youtube.com/watch?v=VJRx5anLT3I" >
+    <img src="imagens/youtube.png" alt="youtube" style="height: 30px;"></a>
+    </td>
+    
+    <td><p style= "font-size: small;"><b>Clique para assistir o trailer</b></p>
+        <a href="https://www.youtube.com/watch?v=JzpDj_yERvg" >
+    <img src="imagens/youtube.png" alt="youtube" style="height: 30px;"></a>
+    </td>
+</tr>
+
+   <tr>
+    <td><h4 id="Vingadores Ultimato">Vingadores ultimato</h4></td>
+    <td><h5 id="Invocação do mal">Invocação do mal</h5></td>
+   </tr>
+   <tr>
+    <td><Img src="imagens/vingadores ultimato.jpg" alt="Vingadores" style="height:400px"></td>
+    <td><Img src="imagens/invocação do mal.jpg" alt="Invocação do mal" style="height:400px"></td>
+        <Td>
+            <b><P>Para sugerir filme ou série preencha o formulário</P></b>
+            <form><b>
+            <label for="nome">Nome:</label>
+            <input type= "text" name= "nome" id="nome">
+            <br = "Preencha aqui seu nome">
+                <br></br>            
+                    <label for="nome">E-mail:</label>
+                    <input type= "email" name= "email" id="email">
+                    <br = "Preencha aqui seu e-mail">
+                        <br></br>
+<label for="tipo">Qual tipo:</label></form>
+<select name="tipo" id="tipo">
+<option value="filme">Filme</option>
+<option value="serie">Série</option>
+</select>
+<br></br>
+<form>
+<label for="nome2">Nome do filme ou série:</label>
+            <input type= "text" name= "nome2" id="nome2">
+            <br = "Preencha aqui seu nome">
+                <br></br>
+
+                <label for="link">Tem algum link do trailler?</label>
+            <input type= "text" name= "link" id="link">
+            <br = "Preencha aqui o link">
+                <br></br>
+
+                <input type="button" value="Enviar">
+</b>
+<br></br>
+</form>
+        </Td>
+   </tr>
+<tr>   
+</tr>
+   <tr>
+    <td><p><b>Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e 
+     entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov 
+     lideram a resistência contra o titã louco.</b></p></td>   
+     <td><p><b>A franquia tem diversos altos e baixos, mas uma das atrações que sempre nos fazem voltar ao cinema é a ideia
+    de que, por trás de toda essa ficção, existem alguns "causos" reais. Em A Ordem Do Demônio, os Warren enfrentam 
+    um tribunal no caso real em que a defesa de Johnson alegou que o réu sofria de posse demoníaca, o que removeria sua 
+    responsabilidade pelo crime.</p></td></b>
+   </tr>
+<tr>
+    <td>
+        <p style= "font-size: small;"><b>Clique para assistir o trailer</b></p>
+        <a href="https://www.youtube.com/watch?v=PgrmbRID0eY">
+        <img src="imagens/youtube.png" alt="youtube" style="height: 30px;"></a>
+    </td>
+    <td>
+        <p style= "font-size: small;"><b>Clique para assistir o trailer</b></p>
+        <a href="https://www.youtube.com/watch?v=EGdEiKfgfig">
+        <img src="imagens/youtube.png" alt="youtube" style="height: 30px;"></a>
+    </td>
+<td>
+</tr>
+</table>
+    <p style= "font-size: small;"><b>Ludmilla de Souza</b></p>
+<a href="https://www.linkedin.com/in/ludmilla-de-souza-721861169/" >
+<img src="imagens/logo-linkedin-icon-4096.png" alt="linkedin" style="height: 15px;">
+</a>
+</body>
+</html>
